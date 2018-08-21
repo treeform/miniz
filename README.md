@@ -2,6 +2,8 @@
 
 Exposes only 2 functions `compress()` and `uncompress()`.
 
+**Miniz** is a Single C source file zlib-replacement library: https://github.com/richgel999/miniz
+
 ```nim
 import miniz
 
